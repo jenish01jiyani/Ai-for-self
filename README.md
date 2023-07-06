@@ -1,6 +1,6 @@
 # Ai-for-self
-it's personal asistant that can work by your choice
+it's personal asistant using python that can work by your choice
 # main-functions
-whatsaap message
-mailing 
+whatsapp message,
+mail service,
 search online with choise given by user
